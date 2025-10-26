@@ -15,4 +15,3 @@ spec:
       backendRefs:
         - name: web-service
           port: 80
-

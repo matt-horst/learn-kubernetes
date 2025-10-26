@@ -15,4 +15,3 @@ spec:
       backendRefs:
         - name: api-service
           port: 80
-
